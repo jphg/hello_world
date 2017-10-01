@@ -1,4 +1,4 @@
 # hello_world
 the first repository
-going through the basic process of branaching and pull
-julio: importnt!
+going through the basic process of branching and pull
+julio: important!
